@@ -1,0 +1,13 @@
+/Users/liminal/srt/CMakeFiles/install/strip.dir
+/Users/liminal/srt/CMakeFiles/install/local.dir
+/Users/liminal/srt/CMakeFiles/rebuild_cache.dir
+/Users/liminal/srt/CMakeFiles/srtsupport_virtual.dir
+/Users/liminal/srt/CMakeFiles/edit_cache.dir
+/Users/liminal/srt/CMakeFiles/srt_shared.dir
+/Users/liminal/srt/CMakeFiles/srt-tunnel.dir
+/Users/liminal/srt/CMakeFiles/srt-file-transmit.dir
+/Users/liminal/srt/CMakeFiles/srt_virtual.dir
+/Users/liminal/srt/CMakeFiles/srt-live-transmit.dir
+/Users/liminal/srt/CMakeFiles/install.dir
+/Users/liminal/srt/CMakeFiles/srt_static.dir
+/Users/liminal/srt/CMakeFiles/list_install_components.dir
